@@ -517,7 +517,7 @@ let settings = {
         advanced: {
             enabled: false,
             customEmoji: "🎶",
-            customStatus: "[{timestamp}] Song lyrics - {lyrics}"
+            customStatus: "[{timestamp}] - {lyrics}"
         }
     },
     timings: {
